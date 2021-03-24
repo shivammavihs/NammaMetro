@@ -10,6 +10,8 @@ Once the user is signed in provide the source and destination stations and click
 
 Program will return the route in list and fare in the console.
 
+Note: Kindly run LoginSignup.py to trigger the program.
+
 input variables:
 userid            #for user id
 password          #for password
